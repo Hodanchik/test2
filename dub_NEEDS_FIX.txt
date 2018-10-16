@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+this is mine dub
+2nd line
+=======
+THis is dublicate, watch out
+>>>>>>> 7c2ddcb78283f5bb1025a93f0142e91ff4398102
